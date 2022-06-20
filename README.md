@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaloyanTs&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&layout=compact)]
 
-<a href="https://github.com/KaloyanTs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&count_private=true&theme=dracula" />
-</a>
-<a href="https://github.com/KaloyanTs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&layout=compact" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&count_private=true&theme=dracula" alt="Turist5's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs" /></a> |
+| ------------- | ------------- |
+
+
+<!--
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true
+-->
