@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=10,red" alt="Turist5's github stats" /></a> | <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=100,red" alt="Turist5's github stats" /></a> | <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
