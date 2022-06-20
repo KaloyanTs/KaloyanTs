@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Turist5's github stats" /></a> | <a href="https://github.com/KaloyanTs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaloyanTs)](https://github.com/KaloyanTs)
