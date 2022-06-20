@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaloyanTs&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&layout=compact)]
+
+<a href="https://github.com/KaloyanTs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaloyanTs&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/KaloyanTs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTs&layout=compact" />
+</a>
