@@ -1,5 +1,5 @@
 ### Go away! I'm busy...
-- 🌱 I’m currently learning Computer Science at FMI (Sofia University)
+- 🌱 I’m currently learning Computer Science at @fmi (Sofia University)
 
 <!--
 **KaloyanTs/KaloyanTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
