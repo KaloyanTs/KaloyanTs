@@ -3,9 +3,8 @@
 <!--**KaloyanTs/KaloyanTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently working on finishing AI, ML and DL theoretical and practical courses at FMI
 - 👯 I’m looking to collaborate on theoretical computer science researches
-- 📫 How to reach me: [![LinkedIn](./assets/LinkedIn_logo.png)](https://www.linkedin.com/in/kaloyan-tsvetkov-40416a247/)
-<a href="https://www.linkedin.com/in/kaloyan-tsvetkov-40416a247/">
-  <img src="./assets/LinkedIn_logo.png" alt="LinkedIn" width="300"/>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kaloyan-tsvetkov-40416a247/">
+  <img src="./assets/LinkedIn_logo.png" alt="LinkedIn" width="50"/>
 </a>
 
 
