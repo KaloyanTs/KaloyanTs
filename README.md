@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on finishing AI, ML and DL theoretical and practical courses at FMI
 - 👯 I’m looking to collaborate on theoretical computer science researches
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kaloyan-tsvetkov-40416a247/">
-  <img src="./assets/LinkedIn_logo.png" alt="LinkedIn" width="50"/>
+  <img src="./assets/LinkedIn_logo.png" alt="LinkedIn" width="20"/>
 </a>
 
 
