@@ -1,4 +1,5 @@
-### Go away! I'm busy...
+### The expected value of seconds, staying on this page, arises with each second
+**(I'm not a special one, it is just exponentially distributed...)**
 - 🌱 I’m currently learning Computer Science at [@fmi](https://github.com/fmi/) (Sofia University)
 - 🔭 I’m currently working on finishing AI, ML and DL theoretical and practical courses at FMI
 - 👯 I’m looking to collaborate on theoretical computer science researches
